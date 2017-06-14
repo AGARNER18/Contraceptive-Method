@@ -1,2 +1,2 @@
 # Contraceptive-Method
-Decision Tree Analysis of Contraceptive Methods
+Simple Decision Tree and Random Forest Analysis of Contraceptive Methods
